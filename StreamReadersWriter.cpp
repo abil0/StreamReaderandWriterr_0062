@@ -9,5 +9,7 @@ int main () {
     ofstream outfile;
     outfile.open("contohfile.txt");
 
+    cout << ">= menulis file,\'q\' untuk keluar" << endl;
+
    
     }
